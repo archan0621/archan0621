@@ -1,6 +1,7 @@
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="Swift" src ="https://img.shields.io/badge/Swift.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
+<img alt="Swift" src ="https://img.shields.io/badge/#F05138.svg?&style=for-the-badge&logo=Swift&logoColor=White"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
 
