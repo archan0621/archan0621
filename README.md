@@ -1,3 +1,12 @@
+# 💻 Developer and Hacker
+
+JJongHa as Developer
+Archan as Hacker
+
+디버깅 할 땐 말 걸지 말아줘~
+
+거기 자바에다 스프링 좀 말아줘~
+
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
 
