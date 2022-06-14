@@ -1,6 +1,7 @@
 # 💻 Developer and Hacker
 
 JJongHa as Developer
+
 Archan as Hacker
 
 디버깅 할 땐 말 걸지 말아줘~
