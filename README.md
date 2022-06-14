@@ -36,6 +36,10 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
 <img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft Azure-0078D4.svg?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
+<img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+<img alt="Kali Linux" src ="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=KaliLinux&logoColor=white"/>
+<img alt="macOS" src ="https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
+<img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
  </div>
 
 
