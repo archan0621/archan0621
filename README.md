@@ -8,6 +8,8 @@
 <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
 <img alt="iOS" src ="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Gradle" src ="https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white"/>
+<img alt="Maven" src ="https://img.shields.io/badge/Maven-C71A36.svg?&style=for-the-badge&logo=Apache Maven&logoColor=white"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
