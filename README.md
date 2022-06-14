@@ -13,7 +13,7 @@ Archan as Hacker
 ### [(주)퓨쳐텍정보통신](https://ftkict.co.kr/) (2021.10 ~ 재직중)
 
 **소프트웨어 엔지니어**
-- 자사 솔루션 SSLPlus, FOTP iOS 유지보수 및 커스텀, 개선 (Swift, Objective-C, CocoaPods, StoryBoard, SwiftUI, XCode) - MVVM, Observer
+- 자사 솔루션 SSLPlus, FOTP iOS 유지보수 및 커스텀, 개선 (Swift, Objective-C, CocoaPods, StoryBoard, XCode) - MVVM, Observer
   - 앱 디자인 및 프론트엔드, 백엔로직 개선 및 커스텀 업무
   - Apple 앱스토어 배포 경험
   - RxSwift, Alamofire, Kingfisher등 여러 다양한 라이브러리 사용 경험
