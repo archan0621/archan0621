@@ -30,6 +30,7 @@
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+<img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft Azure-0078D4.svg?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
  </div>
 
 
