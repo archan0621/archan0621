@@ -12,6 +12,7 @@
 <img alt="Spring Security" src ="https://img.shields.io/badge/Spring_Security-6DB33F.svg?&style=for-the-badge&logo=Spring_Security&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white"/>
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
