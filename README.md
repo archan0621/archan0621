@@ -4,7 +4,7 @@ JJongHa as Developer
 
 Archan as Hacker
 
-디버깅 할 땐 말 걸지 말아줘~
+디버깅을 할 때는 말은 걸지 말아줘~
 
 거기 자바에다 스프링 좀 말아줘~
 
