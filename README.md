@@ -36,6 +36,10 @@ Archan as Hacker
   - 우분투를 이용한 클라우드 개발환경 구축 경험
   - 네트워크 패킷통신에 대한 이해 공부
 
+- 자사 방화벽 보안적합성(CC) 인증 
+  - 방화벽 표준보안적합성 인증 단독 참여 경험 
+  - Iptables를 이용한 방화벽 보안 요구사항 적용 경험
+  - Iptables 방화벽을 웹 관리 패널로 유동적 적용 구현 경험
 
 # 🛠 My Stats
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
