@@ -32,6 +32,11 @@ Archan as Hacker
   - 방화벽 관련 로직 수정 및 개선
   - MsbBus를 이용한 프론트와의 통신 경험
  
+- 자사 방화벽 설정 코드 관련 개발 (Java, Maven, ExtJS) - RestAPI FrontEnd
+  - Iptables 방화벽을 웹 관리 패널로 유동적 적용 구현 경험
+  - Iptables Nat설정을 웹 관리 패널로 유정적 적용 구현 경험
+  - 설정된 방화벽 세팅 값들을 백업스크립트 생성 
+ 
 - 자사 Iptables 방화벽 커스텀 (C, Ubuntu)
   - 우분투를 이용한 클라우드 개발환경 구축 경험
   - 네트워크 패킷통신에 대한 이해 공부
@@ -39,7 +44,7 @@ Archan as Hacker
 - 자사 방화벽 보안적합성(CC) 인증 
   - 방화벽 표준보안적합성 인증 단독 참여 경험 
   - Iptables를 이용한 방화벽 보안 요구사항 적용 경험
-  - Iptables 방화벽을 웹 관리 패널로 유동적 적용 구현 경험
+
 
 # 🛠 My Stats
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
