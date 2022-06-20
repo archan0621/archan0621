@@ -55,7 +55,6 @@ Archan as Hacker
 ## 👩🏻‍💻 Tech Stack 
 <div>
 <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
-<img alt="iOS" src ="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Gradle" src ="https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white"/>
 <img alt="Maven" src ="https://img.shields.io/badge/Maven-C71A36.svg?&style=for-the-badge&logo=Apache Maven&logoColor=white"/>
