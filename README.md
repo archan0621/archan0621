@@ -85,7 +85,7 @@ Archan as Hacker
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
-<img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=AmazonEC2&logoColor=white"/>
+<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
 <img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft Azure-0078D4.svg?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
 <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <img alt="Kali Linux" src ="https://img.shields.io/badge/Kali Linux-557C94.svg?&style=for-the-badge&logo=KaliLinux&logoColor=white"/>
