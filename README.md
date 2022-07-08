@@ -13,7 +13,8 @@ DevInit at 2019.03.02
 
 
 # 😀 About Me
-### [My Portfolio WebSite](https://archan0621.github.io/)
+### [Portfolio WebSite](https://archan0621.github.io/)
+### [Tistory](https://archanwriteup.tistory.com/)
 
 # 💡 My Work
 
