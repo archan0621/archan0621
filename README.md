@@ -36,6 +36,7 @@ DevInit at 2019.03.02
   - 키체인 사용 및 Apple native Crypto Function 사용 경험
   - FaceID 및 TouchID 사용 경험
   - 로딩에 필요한 애니메이션 구현 경험
+  - WinningI AeroxSign을 연동한 비접촉 지문, 장문인증 개발 경험
 
 - 자사 백엔드 유지보수 및 개선 (Java, Maven) - RestAPI
   - 방화벽 관련 로직 수정 및 개선
