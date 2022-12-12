@@ -40,7 +40,7 @@ DevInit at 2019.03.02
 
 - 자사 백엔드 유지보수 및 개선 (Java, Maven) - RestAPI
   - 방화벽 관련 로직 수정 및 개선
-  - MsbBus를 이용한 프론트와의 통신 경험
+  - MsBus를 이용한 프론트와의 통신 경험
  
 - 자사 방화벽 설정 코드 관련 개발 (Java, Maven, ExtJS) - RestAPI FrontEnd
   - Iptables 방화벽을 웹 관리 패널로 유동적 적용 구현 경험
