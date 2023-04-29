@@ -17,45 +17,6 @@ DevInit at 2019.03.02
 ### [Portfolio WebSite](https://archan0621.github.io/)
 ### [Tistory](https://archanwriteup.tistory.com/)
 
-# 💡 My Work
-
-### [(주)퓨쳐텍정보통신](https://ftkict.co.kr/) (2021.10 ~ 재직중)
-
-**소프트웨어 엔지니어**
-- 자사 솔루션 SSLPlus, FOTP iOS 유지보수 및 커스텀, 개선 (Swift, Objective-C, CocoaPods, StoryBoard, XCode) - MVVM, Observer
-  - 앱 디자인 및 프론트엔드, 백엔로직 개선 및 커스텀 업무
-  - Apple 앱스토어 배포 경험
-  - RxSwift, Alamofire, Kingfisher등 여러 다양한 라이브러리 사용 경험
-  - StoryBoard를 이용한 AutoSizing UI 사용경험
-  - Objective-C & Swift 혼합 사용 경험 및 Objective-C -> Swift 변환 경험
-
-- 자사 솔루션 SSLPass iOS 기획, 개발 및 배포 (Swift, StoryBoard, CocoPods, Xcode) - MVVM, Observer
-  - 생체인증을 활용한 2차 인증 SSLPass 기획, 개발 및 배포
-  - 앱 로직 설계 및 디자인 패턴 설계 경험
-  - StoryBoard UI의 생명주기 활용 경험
-  - 키체인 사용 및 Apple native Crypto Function 사용 경험
-  - FaceID 및 TouchID 사용 경험
-  - 로딩에 필요한 애니메이션 구현 경험
-  - WinningI AeroxSign을 연동한 비접촉 지문, 장문인증 개발 경험
-
-- 자사 백엔드 유지보수 및 개선 (Java, Maven) - RestAPI
-  - 방화벽 관련 로직 수정 및 개선
-  - MsBus를 이용한 프론트와의 통신 경험
- 
-- 자사 방화벽 설정 코드 관련 개발 (Java, Maven, ExtJS) - RestAPI FrontEnd
-  - Iptables 방화벽을 웹 관리 패널로 유동적 적용 구현 경험
-  - Iptables Nat설정을 웹 관리 패널로 유정적 적용 구현 경험
-  - 설정된 방화벽 세팅 값들을 백업스크립트 생성 
- 
-- 자사 Iptables 방화벽 커스텀 (C, Ubuntu)
-  - 우분투를 이용한 클라우드 개발환경 구축 경험
-  - 네트워크 패킷통신에 대한 이해 공부
-
-- 자사 방화벽 보안적합성(CC) 인증 
-  - 방화벽 표준보안적합성 인증 단독 참여 경험 
-  - Iptables를 이용한 방화벽 보안 요구사항 적용 경험
-
-
 # 🛠 My Stats
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archan0621&layout=compact)](https://github.com/archan0621/github-readme-stats)
