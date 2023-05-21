@@ -32,7 +32,7 @@ DevInit at 2019.03.02
 
 ## Sub Language 
 <div>
-<img alt="Shell Script" src ="https://img.shields.io/badge/gnubash-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img alt="Shell Script" src ="https://img.shields.io/badge/Shell Script-4EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/> 
 </div>
