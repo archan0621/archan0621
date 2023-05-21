@@ -7,11 +7,6 @@ Archan as Hacker
 Init at 2003.06.21
 DevInit at 2019.03.02
 
-디버깅을 할 때는 말은 걸지 말아줘~
-
-거기 자바에다 스프링 좀 말아줘~
-
-
 # 😀 About Me
 
 ### [Portfolio WebSite](https://archan0621.github.io/)
