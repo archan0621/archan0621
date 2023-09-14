@@ -4,13 +4,6 @@ JJongHa as Developer, Archan as Hacker
 
 Init at 2003.06.21 ,Dev & Hacking Init at 2019.03.02
 
-안녕하세요 서비스 백엔드 개발자가 되고 싶은 21살 2년차 개발자 박종하입니다.
-
-18살의 나이에 없는 경력과 경험으로 보안회사에 입사하였지만 시간이 지나며 서비스 회사의 백엔드 개발자가 되고 싶다는 꿈이 생겼습니다.
-
-회사 업무를 하면서도 서비스 도메인으로 이직하기 위한 공부를 하루도 빠짐없이 진행하고 있습니다.
-
-
 # 😀 About Me
 
 ### [Portfolio WebSite](https://archan0621.github.io/)
