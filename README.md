@@ -11,7 +11,6 @@ Init at 2003.06.21 ,Dev & Hacking Init at 2019.03.02
 
 # 🛠 My Stats
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://opgc.me/#/users/archan0621" target="_blank"><img src="https://api.opgc.me/githubs/users/archan0621/tag/?theme=basic" /></a>
 ## 👩🏻‍💻 Tech Stack 
 
 <div>
