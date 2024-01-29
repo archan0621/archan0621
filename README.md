@@ -1,8 +1,4 @@
-# 💻 Developer and Hacker [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/archan0621)
-
-JJongHa as Developer, Archan as Hacker
-
-Init at 2003.06.21 ,Dev & Hacking Init at 2019.03.02
+# 💻 BackEnd Developer [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/archan0621)
 
 # 😀 About Me
 
