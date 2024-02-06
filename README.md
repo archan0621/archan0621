@@ -15,15 +15,12 @@
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
 <img alt="Spring Data JPA" src ="https://img.shields.io/badge/Spring Data JPA & Redis-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-</div>
-
-<div>
-  <img alt="Hibernate" src ="https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img alt="Hibernate" src ="https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
 </div>
 
 <div>
   <img alt="JUnit5" src ="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/>
-  <img alt="Mockito" src ="https://img.shields.io/badge/Mockito-6CD74A.svg?&style=for-the-badge&logo=Mockito&logoColor=white"/>
+  <img alt="Mockito" src ="https://img.shields.io/badge/Mockito-6CD74A.svg?&style=for-the-badge&logo=Juce&logoColor=white"/>
 </div>
 
 <div>
