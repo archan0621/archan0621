@@ -2,36 +2,44 @@
 
 # 😀 About Me
 
-### [Portfolio WebSite](https://archan0621.github.io/)
-### [Tistory](https://archanwriteup.tistory.com/)
 
 # 🛠 My Stats
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
-## 👩🏻‍💻 Tech Stack 
+# 👩🏻‍💻 Tech Stack 
 
 <div>
-<img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+
+<div>
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
-<img alt="Hibernate" src ="https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img alt="Spring Data JPA" src ="https://img.shields.io/badge/Spring Data JPA & Redis-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 </div>
+
 <div>
-<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="Hibernate" src ="https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
+</div>
+
+<div>
+  <img alt="JUnit5" src ="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/>
+  <img alt="Mockito" src ="https://img.shields.io/badge/Mockito-6CD74A.svg?&style=for-the-badge&logo=Mockito&logoColor=white"/>
+</div>
+
+<div>
+  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+</div>
+
+<div>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="GithubActions" src ="https://img.shields.io/badge/Github Actions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
+</div>
+
+<div>
 <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=AmazonEC2&logoColor=white"/>
-<img alt="JWT" src ="https://img.shields.io/badge/jsonwebtokens-000000.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> 
+<img alt="Vultr" src ="https://img.shields.io/badge/Vultr-007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=white"/> 
 </div>
 
-<div>
-<img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
-<img alt="iOS Frameworks" src ="https://img.shields.io/badge/ios-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white"/>
-</div>
-
-<div>
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img alt="netfilter" src ="https://img.shields.io/badge/netfilter-EB844E.svg?&style=for-the-badge&logo=fireship&logoColor=white"/>
-<img alt="OpenSSL" src ="https://img.shields.io/badge/openssl-721412.svg?&style=for-the-badge&logo=openssl&logoColor=white"/>
-<img alt="Fido Alliance" src ="https://img.shields.io/badge/fidoalliance-FFBF3B.svg?&style=for-the-badge&logo=fidoalliance&logoColor=white"/> 
-</div>
 
 
