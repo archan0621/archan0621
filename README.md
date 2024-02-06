@@ -14,7 +14,7 @@
 <div>
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
-<img alt="Spring Data JPA" src ="https://img.shields.io/badge/Spring Data JPA & Redis-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img alt="Spring Data JPA" src ="https://img.shields.io/badge/Spring Data JPA & Redis-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 </div>
 
 <div>
