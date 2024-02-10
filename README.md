@@ -1,5 +1,7 @@
 # 💻 BackEnd Developer [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/archan0621)
 
+#### 안녕하세요 3년차 보안 개발자 알찬입니다. 하지만 서비스 백엔드 개발자로 다시 태어나기로 했어요, 마치 운명의 상대를 만난것처럼 확신이 딱 오더라구요. 난 사용자들과 밀접하게 연결된 서비스들을 개발하는것을 하고 싶구나, 좋은 개발팀에서 성장하고 싶은것도 덤이구요 ㅎㅎ 
+
 # ⚜️ My projects on live - 현재 서비스중인 프로젝트들
 
 ### ⚽️ 슬축생 프로젝트 ⚽️
