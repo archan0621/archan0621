@@ -6,25 +6,13 @@
 
 #### 설명 : 대학생 연합 축구 동아리 슬기로운 축구 생활 부원 및 경기 관리 홈페이지
 
-#### 주요 기능 
-- 현재 위치를 기반으로 반경 400m내 경기 출석 (지각, 미출석 처리)
-- 경기별 회비 납부 확인 요청 및 회비 납부 내역 관리
-- 매주 경기 종료 시간에 동적 스케줄러를 생성하여 회원 경고 일괄 처리 (지각, 불참등 경고 부여)
-- 마이 페이지 (경기 출석 비율, 경고 확인, 참여한 경기 확인)
-- 어드민 페이지에서 부원, 경기 관리 및 부원별 참여율 그래프 시각화
-
 #### URL : https://seulchuksaeng.com
 
 #### 사용자 : 약 120명
 
-#### 기술스택 : 각 리포지토리 README 확인
+#### 기술스택 및 기능설명 : 각 리포지토리 README 확인
 - Backend : https://github.com/archan0621/SeulChukSaeng_BE
 - FrontEnd : https://github.com/archan0621/SeulChukSaeng_FE
-
-#### 유지보수
-- Discord 웹훅을 보내는 라이브러리를 개발하여 백엔드 서버 알림 시스템 구축
-- Prometheus, Grafana를 이용하여 백엔드 엔드포인트, JVM, MySQL 모니터링
-- Jeniffer Front를 이용하여 프론트엔드 모니터링
 
 #### 프로젝트 이야기 - https://archanwriteup.tistory.com/entry/슬축생-프로젝트-1-고정-사용자-80명이-확보된-프로젝트-시작
 
