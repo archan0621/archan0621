@@ -34,7 +34,7 @@
 <div>
   <img alt="JUnit5" src ="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/>
   <img alt="Mockito" src ="https://img.shields.io/badge/Mockito-6CD74A.svg?&style=for-the-badge&logo=Juce&logoColor=white"/>
-  <img alt="nGrinder" src ="https://img.shields.io/badge/speedtest-E0234E.svg?&style=for-the-badge&logo=speedtest&logoColor=white"/>
+  <img alt="nGrinder" src ="https://img.shields.io/badge/nGrinder-E0234E.svg?&style=for-the-badge&logo=speedtest&logoColor=white"/>
 </div>
 
 <div>
