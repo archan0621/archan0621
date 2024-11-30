@@ -1,22 +1,7 @@
-# 💻 BackEnd Developer [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/archan0621)
+# 💻 BackEnd Developer
 
-#### 안녕하세요 3년차 보안 개발자 알찬입니다. 하지만 서비스 백엔드 개발자로 다시 태어나기로 했어요, 마치 운명의 상대를 만난것처럼 확신이 딱 오더라구요. 난 사용자들과 밀접하게 연결된 서비스들을 개발하는것을 하고 싶구나, 좋은 개발팀에서 성장하고 싶은것도 덤이구요 ㅎㅎ 
+#### 팀원들과 함께 성장하고 싶은 개발자 박종하입니다.
 
-# ⚜️ My projects on live - 현재 서비스중인 프로젝트들
-
-### ⚽️ 슬축생 프로젝트 ⚽️
-
-#### 설명 : 대학생 연합 축구 동아리 슬기로운 축구 생활 부원 및 경기 관리 홈페이지
-
-#### URL : https://seulchuksaeng.com
-
-#### 사용자 : 약 120명
-
-#### 기술스택 및 기능설명 : 각 리포지토리 README 확인
-- Backend : https://github.com/archan0621/SeulChukSaeng_BE
-- FrontEnd : https://github.com/archan0621/SeulChukSaeng_FE
-
-#### 프로젝트 이야기 - https://archanwriteup.tistory.com/entry/슬축생-프로젝트-1-고정-사용자-80명이-확보된-프로젝트-시작
 
 # 👩🏻‍💻 Tech Stack 
 
